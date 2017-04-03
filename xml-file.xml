@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href= "xml-style.xsl"?>
+<vt>
+<kitaplar> 
+    <kitap>
+    <kitap_id>1</kitap_id>
+        <isbn>9789753634854</isbn>
+        <kitap_ad>Aritmetik İyi Kuşlar Pekiyi</kitap_ad>
+        <kategori>Öykü</kategori>
+        <sayfa_sayisi>71</sayfa_sayisi>
+        <yazar_id>1</yazar_id>
+        <yayinci_id>1</yayinci_id>
+    </kitap>
+    <kitap>
+    <kitap_id>2</kitap_id>
+        <isbn>9789750826757</isbn>
+        <kitap_ad>Üvercinka</kitap_ad>
+        <kategori>Şiir</kategori>
+        <sayfa_sayisi>64</sayfa_sayisi>
+        <yazar_id>1</yazar_id>
+        <yayinci_id>1</yayinci_id>
+    </kitap>
+    <kitap>
+    <kitap_id>3</kitap_id>
+        <isbn>9789753634560</isbn>
+        <kitap_ad>Sevda Sözleri</kitap_ad>
+        <kategori>Şiir</kategori>
+        <sayfa_sayisi>332</sayfa_sayisi>
+        <yazar_id>1</yazar_id>
+        <yayinci_id>1</yayinci_id>
+    </kitap>
+    <kitap>
+    <kitap_id>4</kitap_id>
+        <isbn>9789750711107</isbn>
+        <kitap_ad>Milena'ya Mektuplar</kitap_ad>
+        <kategori>Mektup</kategori>
+        <sayfa_sayisi>400</sayfa_sayisi>
+        <yazar_id>2</yazar_id>
+        <yayinci_id>2</yayinci_id>
+    </kitap>
+    <kitap>
+    <kitap_id>5</kitap_id>
+        <isbn>9789750719356</isbn>
+        <kitap_ad>Dönüşüm</kitap_ad>
+        <kategori>Öykü</kategori>
+        <sayfa_sayisi>104</sayfa_sayisi>
+        <yazar_id>2</yazar_id>
+        <yayinci_id>2</yayinci_id>
+    </kitap>
+    <kitap>
+    <kitap_id>6</kitap_id>
+        <isbn>9789750722257</isbn>
+        <kitap_ad>Dava</kitap_ad>
+        <kategori>Roman</kategori>
+        <sayfa_sayisi>248</sayfa_sayisi>
+        <yazar_id>2</yazar_id>
+        <yayinci_id>2</yayinci_id>
+    </kitap>
+    <kitap>
+    <kitap_id>7</kitap_id>
+        <isbn>9789750514524</isbn>
+        <kitap_ad>Yeraltından Notlar</kitap_ad>
+        <kategori>Roman</kategori>
+        <sayfa_sayisi>212</sayfa_sayisi>
+        <yazar_id>3</yazar_id>
+        <yayinci_id>3</yayinci_id>
+    </kitap>
+    <kitap>
+    <kitap_id>8</kitap_id>
+        <isbn>9789750516146</isbn>
+        <kitap_ad>Suç ve Ceza</kitap_ad>
+        <kategori>Roman</kategori>
+        <sayfa_sayisi>660</sayfa_sayisi>
+        <yazar_id>3</yazar_id>
+        <yayinci_id>3</yayinci_id>
+    </kitap>
+    <kitap>
+    <kitap_id>9</kitap_id>
+        <isbn>9789750516320</isbn>
+        <kitap_ad>İnsancıklar</kitap_ad>
+        <kategori>Roman</kategori>
+        <sayfa_sayisi>212</sayfa_sayisi>
+        <yazar_id>3</yazar_id>
+        <yayinci_id>3</yayinci_id>
+    </kitap>
+    <kitap>
+    <kitap_id>10</kitap_id>
+        <isbn>9786055340681</isbn>
+        <kitap_ad>Dalgalar</kitap_ad>
+        <kategori>Roman</kategori>
+        <sayfa_sayisi>254</sayfa_sayisi>
+        <yazar_id>4</yazar_id>
+        <yayinci_id>4</yayinci_id>
+    </kitap>
+    <kitap>
+    <kitap_id>11</kitap_id>
+        <isbn>9786055340216</isbn>
+        <kitap_ad>Deniz Feneri</kitap_ad>
+        <kategori>Roman</kategori>
+        <sayfa_sayisi>232</sayfa_sayisi>
+        <yazar_id>4</yazar_id>
+        <yayinci_id>4</yayinci_id>
+    </kitap>
+    <kitap>
+    <kitap_id>12</kitap_id>
+        <isbn>9786055340308</isbn>
+        <kitap_ad>Kendine Ait Bir Oda</kitap_ad>
+        <kategori>Deneme</kategori>
+        <sayfa_sayisi>128</sayfa_sayisi>
+        <yazar_id>4</yazar_id>
+        <yayinci_id>4</yayinci_id>
+    </kitap>
+     <kitap>
+    <kitap_id>13</kitap_id>
+        <isbn>9789750813870</isbn>
+        <kitap_ad>Göğe Bakma Durağı</kitap_ad>
+        <kategori>Şiir</kategori>
+        <sayfa_sayisi>112</sayfa_sayisi>
+        <yazar_id>5</yazar_id>
+        <yayinci_id>1</yayinci_id>
+    </kitap>
+    <kitap>
+    <kitap_id>14</kitap_id>
+        <isbn>9789750836190</isbn>
+        <kitap_ad>Dünyanın En Güzel Arabistanı</kitap_ad>
+        <kategori>Şiir</kategori>
+        <sayfa_sayisi>88</sayfa_sayisi>
+        <yazar_id>5</yazar_id>
+        <yayinci_id>1</yayinci_id>
+    </kitap>
+    <kitap>
+    <kitap_id>15</kitap_id>
+        <isbn>9789750838828</isbn>
+        <kitap_ad>Veys</kitap_ad>
+        <kategori>Oyun</kategori>
+        <sayfa_sayisi>100</sayfa_sayisi>
+        <yazar_id>5</yazar_id>
+        <yayinci_id>1</yayinci_id>
+    </kitap>
+    <kitap>
+    <kitap_id>16</kitap_id>
+        <isbn>9789750817915</isbn>
+        <kitap_ad>Yitiksiz</kitap_ad>
+        <kategori>Şiir</kategori>
+        <sayfa_sayisi>112</sayfa_sayisi>
+        <yazar_id>5</yazar_id>
+        <yayinci_id>1</yayinci_id>
+    </kitap>
+    <kitap>
+    <kitap_id>17</kitap_id>
+        <isbn>9789750815775</isbn>
+        <kitap_ad>Korkulu Ustalık</kitap_ad>
+        <kategori>Söyleşi</kategori>
+        <sayfa_sayisi>703</sayfa_sayisi>
+        <yazar_id>5</yazar_id>
+        <yayinci_id>1</yayinci_id>
+    </kitap>
+</kitaplar>
+    <yazarlar>
+        <yazar>
+        <yazar_id>1</yazar_id>
+            <yazar_ad>Cemal</yazar_ad>
+            <yazar_soyad>Süreya</yazar_soyad>
+            <dogum_yili>1931</dogum_yili>
+            <olum_yili>1990</olum_yili>
+        </yazar>
+        <yazar>
+        <yazar_id>2</yazar_id>
+            <yazar_ad>Franz</yazar_ad>
+            <yazar_soyad>Kafka</yazar_soyad>
+            <dogum_yili>1883</dogum_yili>
+            <olum_yili>1924</olum_yili>
+        </yazar>
+        <yazar>
+        <yazar_id>3</yazar_id>
+            <yazar_ad>Fyodor Mihayloviç</yazar_ad>
+            <yazar_soyad>Dostoyevski</yazar_soyad>
+            <dogum_yili>1821</dogum_yili>
+            <olum_yili>1881</olum_yili>
+        </yazar>
+        <yazar>
+        <yazar_id>4</yazar_id>
+            <yazar_ad>Virginia</yazar_ad>
+            <yazar_soyad>Woolf</yazar_soyad>
+            <dogum_yili>1882</dogum_yili>
+            <olum_yili>1941</olum_yili>
+        </yazar>
+        <yazar>
+        <yazar_id>5</yazar_id>
+            <yazar_ad>Turgut</yazar_ad>
+            <yazar_soyad>Uyar</yazar_soyad>
+            <dogum_yili>1927</dogum_yili>
+            <olum_yili>1985</olum_yili>
+        </yazar>
+    </yazarlar>
+    <yayincilar>
+    <yayinci>
+        <yayinci_id>1</yayinci_id>
+        <yayinci_ad>Yapı Kredi Yayınları</yayinci_ad>
+        <yayinci_adres>Kızılay Mah., Atatürk Bulv. No:93, 06430 Çankaya/Ankara</yayinci_adres>
+    </yayinci>
+    <yayinci>
+        <yayinci_id>2</yayinci_id>
+        <yayinci_ad>Can Yayınları</yayinci_ad>
+        <yayinci_adres>Hayriye Caddesi No:2, 34430 Galatasaray Beyoğlu/İstanbul</yayinci_adres>
+    </yayinci>
+    <yayinci>
+        <yayinci_id>3</yayinci_id>
+        <yayinci_ad>İletişim Yayınları</yayinci_ad>
+        <yayinci_adres>Bayındır 2 Sokak, 51/15, 06640 Kızılay/Çankaya</yayinci_adres>
+    </yayinci>
+    <yayinci>
+        <yayinci_id>4</yayinci_id>
+        <yayinci_ad>Kırmızı Kedi Yayınları</yayinci_ad>
+        <yayinci_adres>Ömer Avni Mah. Emektar Sok. No:18, Gümüşsuyu Beyoğlu/İstanbul</yayinci_adres>
+    </yayinci>
+    </yayincilar>
+</vt>

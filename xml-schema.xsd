@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+<xs:element name="kitap">
+    <xs:complexType>
+        <xs:sequence>
+            <xs:element name="kitap_id" type="xs:integer"/>
+            <xs:element name="isbn" type="xs:integer"/>
+            <xs:element name="kitap_ad" type="xs:string"/>
+            <xs:element name="kategori" type="xs:string"/>
+            <xs:element name="sayfa_sayisi" type="xs:integer"/>
+            <xs:element name="yazar_id" type="xs:integer"/>
+            <xs:element name="yayinci_id" type="xs:integer"/>
+        </xs:sequence>
+    </xs:complexType>
+</xs:element>
+
+<xs:element name="yazar">
+    <xs:complexType>
+        <xs:sequence>
+            <xs:element name="yazar_id" type="xs:integer"/>
+            <xs:element name="yazar_ad" type="xs:string"/>
+            <xs:element name="yazar_soyad" type="xs:string"/>
+            <xs:element name="dogum_yili" type="xs:date"/>
+            <xs:element name="olum_yili" type="xs:date"/>
+        </xs:sequence>
+    </xs:complexType>
+    </xs:element>
+
+<xs:element name="yayinci">
+    <xs:complexType>
+        <xs:sequence>
+            <xs:element name="yayinci_id" type="xs:integer"/>
+            <xs:element name="yayinci_ad" type="xs:string"/>
+            <xs:element name="yayinci_adres" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+    </xs:element>
+    
+</xs:schema>

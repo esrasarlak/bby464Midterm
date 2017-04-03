@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc= "http://purl.org/dc/elements/1.1/">
+    
+    <rdf:Description rdf:about="Aritmetik İyi Kuşlar Pekiyi">
+        <dc:title>Aritmetik İyi Kuşlar Pekiyi</dc:title>
+        <dc:type>Öykü</dc:type>
+        <dc:creator>Cemal Süreya</dc:creator>
+        <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="Üvercinka">
+        <dc:title>Üvercinka</dc:title>
+        <dc:type>Şiir</dc:type>
+        <dc:creator>Cemal Süreya</dc:creator>
+        <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Sevda Sözleri">
+        <dc:title>Sevda Sözleri</dc:title>
+        <dc:type>Şiir</dc:type>
+        <dc:creator>Cemal Süreya</dc:creator>
+        <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Milena'ya Mektuplar">
+        <dc:title>Milena'ya Mektuplar</dc:title>
+        <dc:type>Mektup</dc:type>
+        <dc:creator>Franz Kafka</dc:creator>
+        <dc:publisher>Can Yayınları</dc:publisher>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Dönüşüm">
+        <dc:title>Dönüşüm</dc:title>
+        <dc:type>Öykü</dc:type>
+        <dc:creator>Franz Kafka</dc:creator>
+        <dc:publisher>Can Yayınları</dc:publisher>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="Dava">
+        <dc:title>Dava</dc:title>
+        <dc:type>Roman</dc:type>
+        <dc:creator>Franz Kafka</dc:creator>
+        <dc:publisher>Can Yayınları</dc:publisher>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="Yeraltından Notlar">
+        <dc:title>Yeraltından Notlar</dc:title>
+        <dc:type>Roman</dc:type>
+        <dc:creator>Fyodor Mihayloviç Dostoyevski</dc:creator>
+        <dc:publisher>İletişim Yayınları</dc:publisher>
+    </rdf:Description>
+    
+     <rdf:Description rdf:about="Suç ve Ceza">
+        <dc:title>Suç ve Ceza</dc:title>
+        <dc:type>Roman</dc:type>
+        <dc:creator>Fyodor Mihayloviç Dostoyevski</dc:creator>
+        <dc:publisher>İletişim Yayınları</dc:publisher>
+    </rdf:Description>
+    
+     <rdf:Description rdf:about="İnsancıklar">
+        <dc:title>İnsancıklar</dc:title>
+        <dc:type>Roman</dc:type>
+        <dc:creator>Fyodor Mihayloviç Dostoyevski</dc:creator>
+        <dc:publisher>İletişim Yayınları</dc:publisher>
+    </rdf:Description>
+    
+     <rdf:Description rdf:about="Dalgalar">
+        <dc:title>Dalgalar</dc:title>
+        <dc:type>Roman</dc:type>
+        <dc:creator>Virginia Woolf</dc:creator>
+        <dc:publisher>Kırmızı Kedi Yayınları</dc:publisher>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Deniz Feneri">
+        <dc:title>Deniz Feneri</dc:title>
+        <dc:type>Roman</dc:type>
+        <dc:creator>Virginia Woolf</dc:creator>
+        <dc:publisher>Kırmızı Kedi Yayınları</dc:publisher>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="Kendine Ait Bir Oda">
+        <dc:title>Kendine Ait Bir Oda</dc:title>
+        <dc:type>Deneme</dc:type>
+        <dc:creator>Virginia Woolf</dc:creator>
+        <dc:publisher>Kırmızı Kedi Yayınları</dc:publisher>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="Göğe Bakma Durağı">
+        <dc:title>Göğe Bakma Durağı</dc:title>
+        <dc:type>Şiir</dc:type>
+        <dc:creator>Turgut Uyar</dc:creator>
+        <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="Dünyanın En Güzel Arabistanı">
+        <dc:title>Dünyanın En Güzel Arabistanı</dc:title>
+        <dc:type>Şiir</dc:type>
+        <dc:creator>Turgut Uyar</dc:creator>
+        <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="Veys">
+        <dc:title>Veys</dc:title>
+        <dc:type>Oyun</dc:type>
+        <dc:creator>Turgut Uyar</dc:creator>
+        <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="Yitiksiz">
+        <dc:title>Yitiksiz</dc:title>
+        <dc:type>Şiir</dc:type>
+        <dc:creator>Turgut Uyar</dc:creator>
+        <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="Korkulu Ustalık">
+        <dc:title>Korkulu Ustalık</dc:title>
+        <dc:type>Söyleşi</dc:type>
+        <dc:creator>Turgut Uyar</dc:creator>
+        <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    </rdf:Description>
+
+</rdf:RDF>
